@@ -1,4 +1,5 @@
-## 该项目是想探究世界各地区GDP总量与世界各地区旅游总收入之间的关系，同时探究世界各地区PM2.5污染量和世界各地区的迁移人数对世界各地区GDP总量与世界各地区旅游总收入是否有影响或关系
+## 交互式数据可视化期末项目
+### 该项目是想探究世界各地区GDP总量与世界各地区旅游总收入之间的关系，同时探究世界各地区PM2.5污染量和世界各地区的迁移人数对世界各地区GDP总量与世界各地区旅游总收入是否有影响或关系
 
 ### 数据来源：
 worldbank  United Nations
@@ -12,6 +13,7 @@ worldbank  United Nations
 ![](https://github.com/NFUNM024/Visual/blob/master/%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E5%8C%BAGDP%E6%80%BB%E9%87%8F.png)
 #### 图表效果
 ![](https://github.com/NFUNM024/Visual/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(3)/%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E5%8C%BAGDP%E6%80%BB%E9%87%8F0.png)
+[世界各地区GDP总量](http://13553364476.pythonanywhere.com)
 
 可以从图表看出世界的大部分地区的GDP总量呈现为稳定或是有小的上升趋势，中国和美国是上升幅度较为明显的，同时通过图表颜色的变化看出中国的GDP总量的增幅是十分大的，而俄罗斯和澳大利亚都出现了比较大的下降趋势。
 
@@ -20,6 +22,7 @@ worldbank  United Nations
 ![](https://github.com/NFUNM024/Visual/blob/master/世界各地区旅游总收入.png)
 #### 图表效果
 ![](https://github.com/NFUNM024/Visual/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(3)/%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E5%8C%BA%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A50.png)
+[世界各地区旅游总收入](http://13553364476.pythonanywhere.com)
 
 从图表看出世界各地的旅游总收入总体上呈上升趋势，其中以澳大利亚和泰国的收入增长最明显。但中国和俄罗斯却呈下降趋势旅游总收入有明显的下降。
 
@@ -28,6 +31,7 @@ worldbank  United Nations
 ![](https://github.com/NFUNM024/Visual/blob/master/世界各地区旅游总收入与GDP总量对比.png)
 #### 图表效果
 ![](https://github.com/NFUNM024/Visual/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(3)/%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E5%8C%BA%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A5%E4%B8%8EGDP%E6%80%BB%E9%87%8F%E5%AF%B9%E6%AF%940.png)
+[世界各地区旅游总收入与GDP总量对比](http://13553364476.pythonanywhere.com)
 
 总体上看世界各地区旅游总收入是和与GDP总量成正比的，从图表数据看两者都有些增长，但增长有些波动总体上还是趋向平稳的。
 
@@ -36,6 +40,8 @@ worldbank  United Nations
 ![](https://github.com/NFUNM024/Visual/blob/master/PM2.5%E6%B1%A1%E6%9F%93%E9%87%8F%E5%AF%B9%E6%AF%94.png)
 
 ![](https://github.com/NFUNM024/Visual/blob/master/PM2.5%E6%B1%A1%E6%9F%93%E9%87%8F%E5%AF%B9%E6%AF%941.png)
+[PM2.5污染量对比](http://13553364476.pythonanywhere.com)
+
 #### 图表效果
 ![](https://github.com/NFUNM024/Visual/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(3)/PM2.5%E6%B1%A1%E6%9F%93%E9%87%8F%E5%AF%B9%E6%AF%940.png)
 
@@ -46,6 +52,7 @@ worldbank  United Nations
 ![](https://github.com/NFUNM024/Visual/blob/master/个别国家的迁移人数对比.png)
 #### 图表效果
 ![](https://github.com/NFUNM024/Visual/blob/master/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(3)/%E4%B8%AA%E5%88%AB%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%BF%81%E7%A7%BB%E4%BA%BA%E6%95%B0%E5%AF%B9%E6%AF%940.png)
+[个别国家的迁移人数对比](http://13553364476.pythonanywhere.com)
 
 从图表看出八个国家的迁入人口都是增加的，其中美国的迁移人口虽然是增加的状态但是所占的比例却开始下降。此外中国与其他七个国家有很大的区别它的迁入人数为负数，但迁出的人数却随着时间慢慢的减少
 
