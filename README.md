@@ -11,26 +11,27 @@ worldbank  United Nations
 
 ### 世界各地区旅游总收入
 #### 图表代码
-![]  (https://github.com/NFUNM024/Visual/blob/master/%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E5%8C%BA%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A5.png)
+![](https://github.com/NFUNM024/Visual/blob/master/世界各地区旅游总收入.png)
 
 从图表看出世界各地的旅游总收入总体上呈上升趋势，其中以澳大利亚和泰国的收入增长最明显。但中国和俄罗斯却呈下降趋势旅游总收入有明显的下降。
 
 ### 世界各地区旅游总收入与GDP总量对比
 #### 图表代码
-![]  (https://github.com/NFUNM024/Visual/blob/master/%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E5%8C%BA%E6%97%85%E6%B8%B8%E6%80%BB%E6%94%B6%E5%85%A5%E4%B8%8EGDP%E6%80%BB%E9%87%8F%E5%AF%B9%E6%AF%94.png)
+![](https://github.com/NFUNM024/Visual/blob/master/世界各地区旅游总收入与GDP总量对比.png)
 
 总体上看世界各地区旅游总收入是和与GDP总量成正比的，从图表数据看两者都有些增长，但增长有些波动总体上还是趋向平稳的。
 
 ### PM2.5污染量对比
 #### 图表代码
-![]  (https://github.com/NFUNM024/Visual/blob/master/PM2.5%E6%B1%A1%E6%9F%93%E9%87%8F%E5%AF%B9%E6%AF%94.png)
-![]  (https://github.com/NFUNM024/Visual/blob/master/PM2.5%E6%B1%A1%E6%9F%93%E9%87%8F%E5%AF%B9%E6%AF%941.png)
+![](https://github.com/NFUNM024/Visual/blob/master/PM2.5%E6%B1%A1%E6%9F%93%E9%87%8F%E5%AF%B9%E6%AF%94.png)
+
+![](https://github.com/NFUNM024/Visual/blob/master/PM2.5%E6%B1%A1%E6%9F%93%E9%87%8F%E5%AF%B9%E6%AF%941.png)
 
 从图表看出图内8个国家的PM2.5的污染量是呈下降的趋势，而且中国的PM2.5污染量是远远大于其他国家的，并且中国的污染量是呈一起一伏的状态，但又是八个国家中污染量下降最大、最快的国家
 
 ### 个别国家的迁移人数对比
 #### 图表代码
-![]  (https://github.com/NFUNM024/Visual/blob/master/%E4%B8%AA%E5%88%AB%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%BF%81%E7%A7%BB%E4%BA%BA%E6%95%B0%E5%AF%B9%E6%AF%94.png)
+![](https://github.com/NFUNM024/Visual/blob/master/个别国家的迁移人数对比.png)
 
 从图表看出八个国家的迁入人口都是增加的，其中美国的迁移人口虽然是增加的状态但是所占的比例却开始下降。此外中国与其他七个国家有很大的区别它的迁入人数为负数，但迁出的人数却随着时间慢慢的减少
 
